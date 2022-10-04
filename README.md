@@ -24,8 +24,7 @@
 <a href="https://www.linkedin.com/in/ritik-prabhat-3357b420b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-prabhat-3357b420b" height="30" width="40" /></a>
 <a href="https://instagram.com/ritik_prabhat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ritik Prabhat INSTA" height="30" width="40" /></a>
 </p>
-### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/ritik-prabhat/count.svg)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
