@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Deep Learning and UAV**
 
 - 📫 How to reach me **RitikPrabhat19@gmail.com**
 
