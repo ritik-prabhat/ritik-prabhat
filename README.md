@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Ritik Prabhat</h1>
 
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Android App developer and Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
 
